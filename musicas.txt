@@ -1,0 +1,31 @@
+5
+albion
+120
+lucas
+brasileiro
+rock
+4 11 2002
+bohemia
+130
+queen
+india
+rock
+12 10 2056
+cavalo
+340
+penguin
+artico
+pop
+13 12 1948
+dany
+240
+lucas
+africano
+bissexual
+21 12 2022
+spacex
+123
+elon musk
+sulafricano
+pop
+12 12 2012
